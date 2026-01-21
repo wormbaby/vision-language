@@ -1,6 +1,4 @@
-# vision-language
 
-A curated list of selected papers in Vision-Language-Action (VLA) and geometry-aware robotic manipulation.
 
 ## Papers
 
